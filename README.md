@@ -1,4 +1,4 @@
-# AETHER — Collaborative Code Editor & Workstation
+# CODEHIVE — Collaborative Code Editor & Workstation
 
 A high-performance, real-time multi-user collaborative code workstation built with a refined minimalist design system, CRDT-based conflict resolution, live cursor presence, authentication, role-based access control, sandboxed code execution, version time-travel, and Docker containerization.
 
